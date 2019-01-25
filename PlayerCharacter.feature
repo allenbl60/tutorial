@@ -1,4 +1,5 @@
-﻿Feature: PlayerCharacter
+﻿# Comment for git tutorial.  Oops!  Need more info
+Feature: PlayerCharacter
 	In order to play the game
 	As a human character
 	I want my character attributes correctly represented
